@@ -1,0 +1,6 @@
+===============
+mortar_workflow
+===============
+
+This package provides a state-based workflow engine suitable for use
+with any python framework or underlying storage.

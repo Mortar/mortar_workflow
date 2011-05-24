@@ -1,0 +1,22 @@
+Documentation
+=============
+
+.. toctree::
+   :maxdepth: 2
+
+   installation.txt
+   use.txt
+
+   api.txt
+
+   development.txt
+   changes.txt
+   license.txt
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
